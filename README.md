@@ -10,6 +10,7 @@
 <h2 align="center">Technologies and Tools than i use</h2>
 
 <div align="center" style="display: inline-block">
+  <img align="left" height=120em width=120em src="https://github.com/eriksgda/eriksgda/assets/160149641/bb2e6793-7644-4d5e-a9c5-6e028ce067b6"/>
   <img align="center" height=40em src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img align="center" height=40em src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   <img align="center"height=40em src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
@@ -20,7 +21,7 @@
   <img align="center" height=40em src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img align="center" height=40em src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
   <img align="center" height=40em src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-
+  <img align="right" height=120em width=120em src="https://github.com/eriksgda/eriksgda/assets/160149641/bb2e6793-7644-4d5e-a9c5-6e028ce067b6"/>
 </div>
 
 ## 
