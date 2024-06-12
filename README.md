@@ -1,10 +1,8 @@
 <h1 align="center">Hello, welcome 👋</h1>
 
 <div align="center">
-  <a href="https://github.com/eriksgda/github-readme-stats">
     <img height=180em src="https://github-readme-stats.vercel.app/api?username=eriksgda&include_all_commits=true&show_icons=true&theme=catppuccin_mocha" />
     <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=eriksgda&layout=compact&theme=catppuccin_mocha" />
-  </a>
 </div>
 
 <h2 align="center">Technologies and Tools than i use</h2>
