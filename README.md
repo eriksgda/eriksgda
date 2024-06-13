@@ -1,7 +1,7 @@
 <h1 align="center">Hello, welcome 👋</h1>
 
 <div align="center">
-    <img height=180em src="https://github-readme-stats.vercel.app/api?username=eriksgda&include_all_commits=true&show_icons=true&theme=catppuccin_mocha" />
+    <img height=180em src="https://github-readme-stats.vercel.app/api?username=eriksgda&show_icons=true&theme=catppuccin_mocha" />
     <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=eriksgda&layout=compact&theme=catppuccin_mocha" />
 </div>
 
