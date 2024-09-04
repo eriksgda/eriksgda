@@ -33,4 +33,4 @@ Hello! I’m Erik, a passionate software developer with a knack for turning idea
 ### Github Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eriksgda&theme=catppuccin_mocha&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eriksgda&layout=compact&theme=catppuccin_mocha)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eriksgda&layout=compact&hide=javascript&theme=catppuccin_mocha)
