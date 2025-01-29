@@ -32,8 +32,3 @@ Hello! I’m Erik, a passionate software developer with a knack for turning idea
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-
-### Github Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eriksgda&theme=catppuccin_mocha&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eriksgda&layout=compact&hide=javascript&theme=catppuccin_mocha)
